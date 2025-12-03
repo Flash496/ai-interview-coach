@@ -3,7 +3,10 @@ venv/
 env/
 ENV/
 .venv
+
+# Streamlit secrets
 .streamlit/secrets.toml
+.streamlit/config.toml
 
 # Python
 __pycache__/
